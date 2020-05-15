@@ -2,6 +2,18 @@ body {
   font-size: .875rem;
 }
 
+.box {
+  padding: 15px 15px 10px 15px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  margin: 5px 10px 20px 20px;
+  border: solid 1px black;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 .feather {
   width: 16px;
   height: 16px;
