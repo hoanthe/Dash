@@ -11,9 +11,9 @@ class DASH extends Component {
       <div className="container-fluid">
         <div className="row">
           <main className="col-md-10 ml-sm-auto col-lg-10 pt-3 px-4">
-            <DASH_HEADER children='DASHBOARD1'/>
+            <DASH_HEADER children='DASHBOARD2'/>
+
             
-              
             <div className="card-columns row">
               <div className="card col-xs-3 col-lg-3 col-sm-6 box ">
                 <img className="card-img-top" src="holder.js/100x180/" alt=""/>
